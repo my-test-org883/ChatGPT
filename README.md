@@ -5,6 +5,7 @@
 
 Reverse Engineered ChatGPT by OpenAI. Extensible for chatbots etc.
 
+
 # Instructions
 Instructions have been moved to the [Wiki](https://github.com/acheong08/ChatGPT/wiki).
 
